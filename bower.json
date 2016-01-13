@@ -1,0 +1,24 @@
+{
+  "name": "bower-rotate",
+  "authors": [
+    "Pillay",
+    "Anil (Tax&Accounting) <anil.pillay@thomsonreuters.com>"
+  ],
+  "description": "Simple element rotate library",
+  "main": "rotate.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
